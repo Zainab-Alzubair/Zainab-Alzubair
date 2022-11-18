@@ -1,17 +1,13 @@
-### Hi there 👋
+### Hi there 👋 Iam Zainab Alzubair
 
-<!--
-**Zainab-Alzubair/Zainab-Alzubair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently on a mession to develop my technical and professional skills
+- 🌱 I’m currently learning JavaScript | Ruby| Rails| React| Redux 
+- 👯 I’m looking to collaborate on an open source project
+- 🤔 I’m looking for help with 
+- 💬 Ask me about Cloud computing
+- 📫 How to reach me: zainab.a.elzubair@gmail.com | https://www.linkedin.com/in/zainab-al-zubair-bb6777168/
+- 😄 Pronouns: (She/Her) 👩‍💻
+- ⚡ Fun fact: I love to cook 👩‍🍳 and travel ✈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Zainab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zainab-Alzubair&theme=dark&show_icons=true)
+![Zainab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zainab-Alzubair&theme=chartreuse-dark&show_icons=true)
